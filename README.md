@@ -1,6 +1,6 @@
 # scrap 
 # Author: sid 
-# contact: sidghule123@gmail.com
+# Version: v1.0.0
 
 # usegas: 
          $ git clone https://github.com/sid-hack3r/scrap.git
@@ -10,3 +10,10 @@
 
          $ python3 scrap.py https://example.com
          
+# this tool finding Phone Numbers,
+# Server ,
+# Technology, 
+# Cookies,
+# Robots.txt,
+# and Directory find using wordlist.txt like dirb 
+# Thank you

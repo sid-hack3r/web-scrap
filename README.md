@@ -10,10 +10,10 @@
 
          $ python3 scrap.py https://example.com
          
-<h1>This tool finding Phone Numbers</h1>
-# Server ,
-# Technology, 
-# Cookies,
-# Robots.txt,
+# This tool finding Phone Numbers
+# Server 
+# Technology
+# Cookies
+# Robots.txt
 # and Directory find using wordlist.txt like dirb 
 # Thank you

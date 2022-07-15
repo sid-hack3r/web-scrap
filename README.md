@@ -3,6 +3,7 @@
 # contact: sidghule123@gmail.com
 
 # usegas: 
+         $ git clone https://github.com/sid-hack3r/scrap.git
          $ pip3 install -r requirements.txt
          
          $ chmod +x scrap.py

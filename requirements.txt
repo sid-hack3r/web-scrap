@@ -3,4 +3,5 @@ html5lib
 colorama
 lxml
 requests
-urllib3
+urllib3 
+wheel

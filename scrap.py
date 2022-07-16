@@ -140,8 +140,10 @@ try:
                       urls = url+'/'+str(l[i])
                       resp = requests.get(urls).status_code
                       if resp == 200 or resp == 302:
+                        time.sleep(4)
                         print(Fore.BLUE+'[~]'+Fore.LIGHTGREEN_EX+f'Found Url: {urls}  Code:{resp}'+Fore.WHITE)
                         print()
+                        
                       else:
                           print(Fore.BLUE+'[~]'+Fore.LIGHTRED_EX+f' Not Found: {urls}  Code: {resp}'+Fore.WHITE,end='')
                           print()

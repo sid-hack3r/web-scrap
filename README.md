@@ -15,5 +15,5 @@
 # Technology
 # Cookies
 # Robots.txt
-# and Directory find using wordlist.txt like dirb 
+# and Directory finding using wordlist.txt like dirb 
 # Thank you

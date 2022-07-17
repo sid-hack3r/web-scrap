@@ -1,6 +1,5 @@
 
 import re
-from traceback import print_tb
 import requests
 import sys
 import time

@@ -31,7 +31,7 @@ try:
     txt = bs(html,'lxml')
     search = str(txt)
     pattern  = re.compile(r'\+\d\d.\d\d\d\d\d\d\d\d\d\d')
-    pattern2  = re.compile(r'.\d.\d\d\d.\d\d\d.\d\d\d\d')
+    pattern2  = re.compile(r'\+\d.\d\d\d.\d\d\d.\d\d\d\d')
     match = pattern.finditer(search)
     match2 = pattern2.finditer(search)
     

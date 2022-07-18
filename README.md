@@ -5,12 +5,11 @@
  Version: <code>v1.1.0</code>
 <br>
 # usegas: 
+         $  git clone https://github.com/sid-hack3r/scrap.git
+         $  pip3 install -r requirements.txt
+         $  chmod +x scrap.py 
+         $ python3 scrap.py https://example.com
 <br>
-         $ <code> git clone https://github.com/sid-hack3r/scrap.git </code>
-         $ <code> pip3 install -r requirements.txt </code>
-         $ <code> chmod +x scrap.py </code>
-         $ <code>python3 scrap.py https://example.com</code>
-         <br>
 # This tool finding
 # Gmails
 # Phone Numbers

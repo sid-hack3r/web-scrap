@@ -11,11 +11,14 @@
       $ python3 scrap.py https://example.com
 
 # This tool finding
-# Gmails
-# Phone Numbers
-# Server 
-# Technology
-# Cookies
-# Robots.txt
-# and Directory finding using wordlist.txt like dirb 
+<ul>
+<li>Gmails</li>
+<li>Phone Numbers</li>
+<li>Server</li> 
+<li>Technology</li>
+<li>Cookies</li>
+<li>Robots.txt</li>
+</ul>
+<br>
+<p>and Directory finding using wordlist.txt like dirb</p> 
 # Thank you

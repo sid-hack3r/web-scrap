@@ -1,6 +1,7 @@
-# scrap 
+# Web scraping 
 # Author: sid 
-# Version: v1.0.0
+# Version: v1.1.0
+<img src=''>
 
 # usegas: 
          $ git clone https://github.com/sid-hack3r/scrap.git
@@ -10,7 +11,9 @@
 
          $ python3 scrap.py https://example.com
          
-# This tool finding Phone Numbers
+# This tool finding
+# Gmails
+# Phone Numbers
 # Server 
 # Technology
 # Cookies

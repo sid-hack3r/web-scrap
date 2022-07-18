@@ -3,13 +3,13 @@
 <br>
 <h2>Author: sid </h2>
  Version: <code>v1.1.0</code>
-<br>
+
 # usegas: 
-        # $  git clone https://github.com/sid-hack3r/scrap.git
-        # $  pip3 install -r requirements.txt
-        # $  chmod +x scrap.py 
-        # $ python3 scrap.py https://example.com
-<br>
+      $  git clone https://github.com/sid-hack3r/scrap.git
+      $  pip3 install -r requirements.txt
+      $  chmod +x scrap.py 
+      $ python3 scrap.py https://example.com
+
 # This tool finding
 # Gmails
 # Phone Numbers

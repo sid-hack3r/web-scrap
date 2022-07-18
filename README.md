@@ -1,4 +1,4 @@
-<h1 style="color:red;">Web scraping Tool</h1>
+<h1>Web scraping Tool</h1>
 <img src="wordlist/test.png.jpg" width='400'>
 <br>
 <h2>Author: sid </h2>
@@ -18,7 +18,8 @@
 <li>Technology</li>
 <li>Cookies</li>
 <li>Robots.txt</li>
+ <li>Directory finding</li>
 </ul>
 <br>
-<p>and Directory finding using wordlist.txt like dirb</p> 
+
  Thank you !

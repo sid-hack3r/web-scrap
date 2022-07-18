@@ -1,17 +1,14 @@
 <h1>Web scraping Tool</h1>
+<img src=''>
 <br>
 <h2>Author: sid </h2>
  Version: <code>v1.1.0</code>
 <br>
-<img src=''>
-
 # usegas: 
 <br>
-         $ <code>git clone https://github.com/sid-hack3r/scrap.git</code>
-         $ <code>pip3 install -r requirements.txt</code>
-         
-         $ <code>chmod +x scrap.py</code>
-
+         $ <code> git clone https://github.com/sid-hack3r/scrap.git </code>
+         $ <code> pip3 install -r requirements.txt </code>
+         $ <code> chmod +x scrap.py </code>
          $ <code>python3 scrap.py https://example.com</code>
          <br>
 # This tool finding

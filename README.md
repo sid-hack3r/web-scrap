@@ -1,5 +1,5 @@
 <h1>Web scraping Tool</h1>
-![alt text](wordlist/test.png?raw=true "Title")
+<img src="wordlist/test.png" width='400'>
 <br>
 <h2>Author: sid </h2>
  Version: <code>v1.1.0</code>

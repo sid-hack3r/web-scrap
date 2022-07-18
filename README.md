@@ -4,7 +4,7 @@
 <h2>Author: sid </h2>
  Version: <code>v1.1.0</code>
 
-# usegas: 
+# Usgas: 
       $  git clone https://github.com/sid-hack3r/scrap.git
       $  pip3 install -r requirements.txt
       $  chmod +x scrap.py 

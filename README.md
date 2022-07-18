@@ -1,4 +1,4 @@
-# Web scraping Tool
+<h1 style='color:yellow'>Web scraping Tool</h1>
 # Author: sid 
 # Version: v1.1.0
 <img src=''>

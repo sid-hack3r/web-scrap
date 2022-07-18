@@ -1,16 +1,19 @@
-<h1 style='color:yellow'>Web scraping Tool</h1>
-# Author: sid 
-# Version: v1.1.0
+<h1>Web scraping Tool</h1>
+<br>
+<h2>Author: sid </h2>
+ Version: <code>v1.1.0</code>
+<br>
 <img src=''>
 
 # usegas: 
-         $ git clone https://github.com/sid-hack3r/scrap.git
-         $ pip3 install -r requirements.txt
+<br>
+         $ <code>git clone https://github.com/sid-hack3r/scrap.git</code>
+         $ <code>pip3 install -r requirements.txt</code>
          
-         $ chmod +x scrap.py
+         $ <code>chmod +x scrap.py</code>
 
-         $ python3 scrap.py https://example.com
-         
+         $ <code>python3 scrap.py https://example.com</code>
+         <br>
 # This tool finding
 # Gmails
 # Phone Numbers

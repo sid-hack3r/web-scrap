@@ -6,6 +6,7 @@
 
 # Installation: 
       $  git clone https://github.com/sid-hack3r/scrap.git
+      $  cd scrap
       $  pip3 install -r requirements.txt
       $  chmod +x scrap.py 
       $ python3 scrap.py https://example.com

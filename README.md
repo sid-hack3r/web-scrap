@@ -9,7 +9,7 @@
       $  cd scrap
       $  pip3 install -r requirements.txt
       $  chmod +x scrap.py 
-      $ python3 scrap.py https://example.com
+      $  python3 scrap.py https://example.com
 
 # This tool finding
 <ul>
@@ -24,3 +24,4 @@
 <br>
 
  Thank you !
+@sid
